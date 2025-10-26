@@ -15,6 +15,7 @@ A fully responsive e-commerce shopping website built using HTML, CSS, and JavaSc
 🛠️ Technologies Used
 
 HTML5 – For website structure
+
 CSS – For styling and layout
 
 Thank you for visiting my 🛍️ Nostra E-Commerce Website.
